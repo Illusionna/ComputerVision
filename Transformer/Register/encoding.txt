@@ -1,0 +1,5 @@
+Apple:0
+Carambola:1
+Pear:2
+Plum:3
+Tomatoes:4
