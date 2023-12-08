@@ -69,6 +69,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pillow
 2. 训练自己图片集之前，直接删除整个 "./Register" 文件夹，重新执行 process.py 文件.
 3. 如果需要改动 ViT 模型，请自行调试 "./utils/ViT/Efficient_Attention.py" 文件.
 4. 目前 Illusionna 训练的五类水果权重准确率大约在 99% 左右.
+5. 最好不要出现中文文件名，防止那些守旧的操作系统报错.
 
 
 
